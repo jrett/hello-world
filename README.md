@@ -1,6 +1,4 @@
 # hello-world
-Taking the grand tour
-
 This project is simply for me to learn the ropes as far as working with git hub. I've done very little with git hub in the past aside from simply reviewing code, reporting and checking on issues, etc...
 Also, I've worked with git, seperately from git hub, but that was years ago and not for more than a few months.
 This excercise should help get me up to speed.
